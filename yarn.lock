@@ -3389,7 +3389,7 @@
   "resolved" "https://registry.npmjs.org/cloudinary-core/-/cloudinary-core-2.13.0.tgz"
   "version" "2.13.0"
 
-"cloudinary@^1.14.0":
+"cloudinary@^1.14.0", "cloudinary@^1.35.0":
   "integrity" "sha512-0aRLVOaVsoiqDCNkSzlPGR/oYOlE3AGrtwFTPx7xlZCPyKNzqeD9t9ENmPwzHn3yn/afAvy4h1sqb2yPyJOAow=="
   "resolved" "https://registry.npmjs.org/cloudinary/-/cloudinary-1.35.0.tgz"
   "version" "1.35.0"
